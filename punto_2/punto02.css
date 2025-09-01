@@ -52,7 +52,6 @@ button {
     margin-top: 10px;
     transition: background-color 0.3s;
 }
-
 button:hover {
     background-color: #2980b9;
 }

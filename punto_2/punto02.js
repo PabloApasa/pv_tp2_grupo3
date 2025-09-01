@@ -9,7 +9,6 @@ function calcularPromedio() {
     }
 
     const promedio = (num1 + num2 + num3) / 3;
-
     const resultadoElement = document.getElementById("resultado");
     resultadoElement.textContent = `El promedio de los números ingresados es: ${promedio.toFixed(2)}`;
 }
